@@ -1,4 +1,4 @@
-version: 0
+version: 69
 jobs:
   compile:
     image: node

@@ -14,4 +14,4 @@ stages:
   - pipeline:
       jobs:
         - compile
-        - testt
+        - test
